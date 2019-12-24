@@ -11,13 +11,13 @@
  preload
  controls
  loop>
-  <video src="<video src=""
 
- width="200" height="200" 
- preload
- controls
- loop>
- <p>A video of a puppy playing in the snow</p>
+
+
+
+
+
+ <p>A video of a tag implementation</p>
  </video>
 </body>
 </html>
